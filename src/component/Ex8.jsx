@@ -3,6 +3,12 @@ import Personal from './sub/Personal'
 import Address from './sub/Address'
 import Edu from './sub/Edu'
 
+// Personal component
+
+// Address
+
+// Education
+
 function Ex8(props) {
     const [user,setUser] = useState({
         name: "David",
